@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "dependencies": {
+        "@onceindustry/test-pkg": "^0.1.0"
+    }
+}
